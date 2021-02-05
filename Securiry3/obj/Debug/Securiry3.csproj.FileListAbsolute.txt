@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Securiry3\Securiry3\bin\Debug\Securiry3.exe.config
+C:\Users\Admin\source\repos\Securiry3\Securiry3\bin\Debug\Securiry3.exe
+C:\Users\Admin\source\repos\Securiry3\Securiry3\bin\Debug\Securiry3.pdb
+C:\Users\Admin\source\repos\Securiry3\Securiry3\obj\Debug\Securiry3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Securiry3\Securiry3\obj\Debug\Securiry3.Form1.resources
+C:\Users\Admin\source\repos\Securiry3\Securiry3\obj\Debug\Securiry3.Properties.Resources.resources
+C:\Users\Admin\source\repos\Securiry3\Securiry3\obj\Debug\Securiry3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Securiry3\Securiry3\obj\Debug\Securiry3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Securiry3\Securiry3\obj\Debug\Securiry3.exe
+C:\Users\Admin\source\repos\Securiry3\Securiry3\obj\Debug\Securiry3.pdb
